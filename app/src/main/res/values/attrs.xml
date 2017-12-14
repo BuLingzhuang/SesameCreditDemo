@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CreditView">
+        <!--最大数值-->
+        <attr name="maxNum" format="integer"/>
+        <!--圆盘起始角度-->
+        <attr name="startAngle" format="integer"/>
+        <!--圆盘扫过的角度-->
+        <attr name="sweepAngle" format="integer"/>
+        <!--测试用的信用值-->
+        <attr name="currentNum" format="integer"/>
+    </declare-styleable>
+</resources>
